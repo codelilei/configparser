@@ -1,0 +1,10 @@
+# this
+a = 1
+b=false
+# is a comment
+c  =3.6
+e=1,2,3
+
+[de]
+d  =  haha
+e = ok
